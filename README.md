@@ -40,10 +40,10 @@ E E S S S
 ---
 
 ## :warning: Pré Requisitos
-Para rodar algoritmos em python é necessário ter instalado os seguinte programas em sua máquina: 
-Python 3.11.0 ou superior -> [Download](https://www.python.org/downloads/)
-Visual Studio Code -> [Download]( https://code.visualstudio.com/download)
-Código fonte -> [Download] (https://github.com/guelfialho/RYG-BOSS)
+Para rodar algoritmos em python é necessário ter instalado os seguinte programas em sua máquina:   
+Python 3.11.0 ou superior -> [Download](https://www.python.org/downloads/)  
+Visual Studio Code -> [Download]( https://code.visualstudio.com/download)  
+Código fonte -> [Download] (https://github.com/guelfialho/RYG-BOSS)  
 
 Instalar as ferramentas de acordo ao seu sistema operacional e arquitetura.
 
