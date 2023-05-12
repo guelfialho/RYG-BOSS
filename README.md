@@ -23,7 +23,7 @@ githubO objetivo da atividade é desenvolver um jogo, utilizando linguagem de pr
 1. Relatório com o resultado da partida
 
 ✅ **Exemplos válidos:** 
-(C C S S E); (E S S S C); (S S S S S); (E C S C S).
+(C C S S E); (E S S S C); (S S S S S); (E C S C S).  
 ❌ **Exemplos inválidos:** 
 C C C S E 
 E E S S S
