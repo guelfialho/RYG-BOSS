@@ -1,5 +1,3 @@
-# RYG-BOSS
-Jogo com implementação de semáforos
 # RYG-BOSS 👾 🚦
 
 
@@ -59,3 +57,4 @@ Instalar as ferramentas de acordo ao seu sistema operacional e arquitetura.
 1. Copiar o conteúdo do código disponibilizado no GitHub no arquivo criado
 1. Instalar a extensão do Python no VS Code
 1. Apertar o botão de rodar o código no VS Code
+
